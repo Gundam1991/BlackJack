@@ -1,6 +1,6 @@
 //Funcion Anonima
 const miModulo=(()=>{
-    'use strict'
+    'use strict';
     
     let deck = [];
     const tipos = ["C", "D", "H", "S"];
